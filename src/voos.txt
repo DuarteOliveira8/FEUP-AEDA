@@ -1,0 +1,34 @@
+4321 - 29 - 17/2/2018 - Lisboa
+Passageiros:
+Joao Nogueira - 25345466
+Bruno de Carvalho - 63743737
+Andre Gomes - 12345678
+-
+6354 - 18 - 1/3/2018 - Paris
+Passageiros:
+Jorge Jesus - 76473647
+Antonio Santos - 33784387
+-
+9687 - 0 - 15/1/2018 - Londres
+Passageiros:
+Jose Antonio - 93829433
+-
+5087 - 190 - 12/1/2018 - Paris
+Passageiros:
+Antonio Carvalho - 84438845
+Joao Oliveira - 43796438
+Mariana Teixeira - 64837283
+Ines Fernandes - 93238923
+Joao Guimaraes - 74378473
+Joao Ribeiro - 36283637
+Tomas Figueiredo - 13911123
+Pedro Goncalves - 12434567
+Duarte Oliveira - 37298472
+-
+5087 - 0 - 7/1/2018 - Madrid
+Passageiros:
+Joao Alves - 47837504
+Claudio Lemos - 35824739
+Pedro Duarte - 75634657
+Manuel Joao - 84657436
+Tomas Figueiredo - 89357442

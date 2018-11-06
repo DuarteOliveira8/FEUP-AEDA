@@ -1,0 +1,11 @@
+1 - Nuno Silva - 46839258 - pintor - 13/11/1990 - 2 - 24/1/2017
+1 - Jorge Jesus - 76473647 - professor - 24/7/1954 - 19 - 11/7/2017
+1 - Bruno de Carvalho - 63743737 - engenheiro civil - 8/2/1972 - 10 - 2/1/2018
+1 - Andre Gomes - 12345678 - medio central - 30/7/1993 - 20 - 20/12/2017
+1 - Pedro Gonçalves - 18509347 - engenheiro civil - 12/3/1998 - 3 - 17/7/2017
+1 - Claudio Lemos - 35824739 - designer - 26/12/1997 - 1 - 27/12/2017
+1 - Rafael Afonso - 49253475 - ceo - 17/4/1980 - 20 - 2/1/2018
+1 - Joao Alves - 47837504 - jogador de tenis - 12/12/1993 - 1 - 2/3/2016
+0 - Jose Silva - 32847820 - canalizador - 31/2/1970 - 1 - 17/9/2015
+0 - Tomas Figueiredo - 89357442 - pedreiro - 13/6/1996 - 0 - 1/1/1
+0 - Duarte Oliveira - 14474375 - engenheiro minas - 16/10/1990 - 1 - 2/3/2014
